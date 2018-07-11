@@ -1,3 +1,7 @@
+# NOT RELEASED YET. Article is being reviewed internally
+
+
+
 # If the program is used, please cite the article: "Experimental and theoretical evaluation of spectral radiative transfer in high-pressure flames" by Westly et. al. from 2018
 
 
